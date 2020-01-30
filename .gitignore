@@ -1,0 +1,4 @@
+# On ne veut pas que git suive le dossier .idea (créé par php storm)
+
+.idea
+
